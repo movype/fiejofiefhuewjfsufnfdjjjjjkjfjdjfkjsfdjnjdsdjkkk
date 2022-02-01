@@ -85,7 +85,7 @@ h3 {
 }
 
 .layout__header .header__menu .menu__logo .logo__image {
-	background: url("../images/Logo2.png") no-repeat;
+	background: url("../images/logo2.png") no-repeat;
 	background-size: contain;
 	width: 57px;
 	height: 41px;
