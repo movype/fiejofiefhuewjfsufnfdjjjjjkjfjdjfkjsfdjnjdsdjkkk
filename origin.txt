@@ -1,0 +1,372 @@
+Uri: https://gcrmp.ru/
+File Name: D:\сайт\gcrmp.ru\index.htm
+Content Type: text/html
+
+Uri: https://gcrmp.ru/img/favicon/favicon.ico
+File Name: D:\сайт\gcrmp.ru\img\favicon\favicon.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: https://gcrmp.ru/css/main.min.css
+File Name: D:\сайт\gcrmp.ru\css\main.min.css
+Content Type: text/css
+
+Uri: https://gcrmp.ru/play.html
+File Name: D:\сайт\gcrmp.ru\play.html
+Content Type: text/html
+
+Uri: https://gcrmp.ru/donate.html
+File Name: D:\сайт\gcrmp.ru\donate.html
+Content Type: text/html
+
+Uri: https://gcrmp.ru/img/man.png
+File Name: D:\сайт\gcrmp.ru\img\man.png
+Content Type: image/png
+
+Uri: https://gcrmp.ru/img/man-mobile.png
+File Name: D:\сайт\gcrmp.ru\img\man-mobile.png
+Content Type: image/png
+
+Uri: https://gcrmp.ru/js/scripts.min.js
+File Name: D:\сайт\gcrmp.ru\js\scripts.min.js
+Content Type: application/javascript
+
+Uri: https://gcrmp.ru/fonts/RobotoRegular/RobotoRegular.eot
+File Name: D:\сайт\gcrmp.ru\fonts\RobotoRegular\RobotoRegular.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://gcrmp.ru/fonts/RobotoRegular/RobotoRegular.eot?
+File Name: D:\сайт\gcrmp.ru\fonts\RobotoRegular\RobotoRegular-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://gcrmp.ru/fonts/RobotoRegular/RobotoRegular.woff
+File Name: D:\сайт\gcrmp.ru\fonts\RobotoRegular\RobotoRegular.woff
+Content Type: application/font-woff
+
+Uri: https://gcrmp.ru/fonts/RobotoRegular/RobotoRegular.ttf
+File Name: D:\сайт\gcrmp.ru\fonts\RobotoRegular\RobotoRegular.ttf
+Content Type: application/font-sfnt
+
+Uri: https://gcrmp.ru/fonts/RobotoBold/RobotoBold.eot
+File Name: D:\сайт\gcrmp.ru\fonts\RobotoBold\RobotoBold.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://gcrmp.ru/fonts/RobotoBold/RobotoBold.eot?
+File Name: D:\сайт\gcrmp.ru\fonts\RobotoBold\RobotoBold-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://gcrmp.ru/fonts/RobotoBold/RobotoBold.woff
+File Name: D:\сайт\gcrmp.ru\fonts\RobotoBold\RobotoBold.woff
+Content Type: application/font-woff
+
+Uri: https://gcrmp.ru/fonts/RobotoBold/RobotoBold.ttf
+File Name: D:\сайт\gcrmp.ru\fonts\RobotoBold\RobotoBold.ttf
+Content Type: application/font-sfnt
+
+Uri: https://gcrmp.ru/fonts/MullerRegular/MullerRegular.eot
+File Name: D:\сайт\gcrmp.ru\fonts\MullerRegular\MullerRegular.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://gcrmp.ru/fonts/MullerRegular/MullerRegular.eot?
+File Name: D:\сайт\gcrmp.ru\fonts\MullerRegular\MullerRegular-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://gcrmp.ru/fonts/MullerRegular/MullerRegular.woff
+File Name: D:\сайт\gcrmp.ru\fonts\MullerRegular\MullerRegular.woff
+Content Type: application/font-woff
+
+Uri: https://gcrmp.ru/fonts/MullerRegular/MullerRegular.ttf
+File Name: D:\сайт\gcrmp.ru\fonts\MullerRegular\MullerRegular.ttf
+Content Type: application/font-sfnt
+
+Uri: https://gcrmp.ru/fonts/MullerMedium/MullerMedium.eot
+File Name: D:\сайт\gcrmp.ru\fonts\MullerMedium\MullerMedium.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://gcrmp.ru/fonts/MullerMedium/MullerMedium.eot?
+File Name: D:\сайт\gcrmp.ru\fonts\MullerMedium\MullerMedium-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://gcrmp.ru/fonts/MullerMedium/MullerMedium.woff
+File Name: D:\сайт\gcrmp.ru\fonts\MullerMedium\MullerMedium.woff
+Content Type: application/font-woff
+
+Uri: https://gcrmp.ru/fonts/MullerMedium/MullerMedium.ttf
+File Name: D:\сайт\gcrmp.ru\fonts\MullerMedium\MullerMedium.ttf
+Content Type: application/font-sfnt
+
+Uri: https://gcrmp.ru/fonts/MullerBlack/MullerBlack.eot
+File Name: D:\сайт\gcrmp.ru\fonts\MullerBlack\MullerBlack.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://gcrmp.ru/fonts/MullerBlack/MullerBlack.eot?
+File Name: D:\сайт\gcrmp.ru\fonts\MullerBlack\MullerBlack-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://gcrmp.ru/fonts/MullerBlack/MullerBlack.woff
+File Name: D:\сайт\gcrmp.ru\fonts\MullerBlack\MullerBlack.woff
+Content Type: application/font-woff
+
+Uri: https://gcrmp.ru/fonts/MullerBlack/MullerBlack.ttf
+File Name: D:\сайт\gcrmp.ru\fonts\MullerBlack\MullerBlack.ttf
+Content Type: application/font-sfnt
+
+Uri: https://gcrmp.ru/fonts/GothamPro-Black/GothamPro-Black.eot
+File Name: D:\сайт\gcrmp.ru\fonts\GothamPro-Black\GothamPro-Black.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://gcrmp.ru/fonts/GothamPro-Black/GothamPro-Black.eot?
+File Name: D:\сайт\gcrmp.ru\fonts\GothamPro-Black\GothamPro-Black-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://gcrmp.ru/fonts/GothamPro-Black/GothamPro-Black.woff
+File Name: D:\сайт\gcrmp.ru\fonts\GothamPro-Black\GothamPro-Black.woff
+Content Type: application/font-woff
+
+Uri: https://gcrmp.ru/fonts/GothamPro-Black/GothamPro-Black.ttf
+File Name: D:\сайт\gcrmp.ru\fonts\GothamPro-Black\GothamPro-Black.ttf
+Content Type: application/font-sfnt
+
+Uri: https://gcrmp.ru/fonts/PTSans-CaptionBold/PTSans-CaptionBold.eot
+File Name: D:\сайт\gcrmp.ru\fonts\PTSans-CaptionBold\PTSans-CaptionBold.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://gcrmp.ru/fonts/PTSans-CaptionBold/PTSans-CaptionBold.eot?
+File Name: D:\сайт\gcrmp.ru\fonts\PTSans-CaptionBold\PTSans-CaptionBold-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://gcrmp.ru/fonts/PTSans-CaptionBold/PTSans-CaptionBold.woff
+File Name: D:\сайт\gcrmp.ru\fonts\PTSans-CaptionBold\PTSans-CaptionBold.woff
+Content Type: application/font-woff
+
+Uri: https://gcrmp.ru/fonts/PTSans-CaptionBold/PTSans-CaptionBold.ttf
+File Name: D:\сайт\gcrmp.ru\fonts\PTSans-CaptionBold\PTSans-CaptionBold.ttf
+Content Type: application/font-sfnt
+
+Uri: https://gcrmp.ru/fonts/PTSans-Caption/PTSans-Caption.eot
+File Name: D:\сайт\gcrmp.ru\fonts\PTSans-Caption\PTSans-Caption.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://gcrmp.ru/fonts/PTSans-Caption/PTSans-Caption.eot?
+File Name: D:\сайт\gcrmp.ru\fonts\PTSans-Caption\PTSans-Caption-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://gcrmp.ru/fonts/PTSans-Caption/PTSans-Caption.woff
+File Name: D:\сайт\gcrmp.ru\fonts\PTSans-Caption\PTSans-Caption.woff
+Content Type: application/font-woff
+
+Uri: https://gcrmp.ru/fonts/PTSans-Caption/PTSans-Caption.ttf
+File Name: D:\сайт\gcrmp.ru\fonts\PTSans-Caption\PTSans-Caption.ttf
+Content Type: application/font-sfnt
+
+Uri: https://gcrmp.ru/img/intro-bg.png
+File Name: D:\сайт\gcrmp.ru\img\intro-bg.png
+Content Type: image/png
+
+Uri: https://gcrmp.ru/img/intro-text-bg.png
+File Name: D:\сайт\gcrmp.ru\img\intro-text-bg.png
+Content Type: image/png
+
+Uri: https://gcrmp.ru/img/play-icon.svg
+File Name: D:\сайт\gcrmp.ru\img\play-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://gcrmp.ru/img/intro-text-bg2.png
+File Name: D:\сайт\gcrmp.ru\img\intro-text-bg2.png
+Content Type: image/png
+
+Uri: https://gcrmp.ru/img/guchibetterbg.png
+File Name: D:\сайт\gcrmp.ru\img\guchibetterbg.png
+Content Type: image/png
+
+Uri: https://gcrmp.ru/img/circlebg.png
+File Name: D:\сайт\gcrmp.ru\img\circlebg.png
+Content Type: image/png
+
+Uri: https://gcrmp.ru/img/guchiintrobg.png
+File Name: D:\сайт\gcrmp.ru\img\guchiintrobg.png
+Content Type: image/png
+
+Uri: https://gcrmp.ru/img/discord.png
+File Name: D:\сайт\gcrmp.ru\img\discord.png
+Content Type: image/png
+
+Uri: https://gcrmp.ru/img/paralax1-1.png
+File Name: D:\сайт\gcrmp.ru\img\paralax1-1.png
+Content Type: image/png
+
+Uri: https://gcrmp.ru/img/paralax1-2.png
+File Name: D:\сайт\gcrmp.ru\img\paralax1-2.png
+Content Type: image/png
+
+Uri: https://gcrmp.ru/img/paralax1-3.png
+File Name: D:\сайт\gcrmp.ru\img\paralax1-3.png
+Content Type: image/png
+
+Uri: https://gcrmp.ru/img/paralax1-4.png
+File Name: D:\сайт\gcrmp.ru\img\paralax1-4.png
+Content Type: image/png
+
+Uri: https://gcrmp.ru/img/paralax2-1.png
+File Name: D:\сайт\gcrmp.ru\img\paralax2-1.png
+Content Type: image/png
+
+Uri: https://gcrmp.ru/img/paralax-off2-1.png
+File Name: D:\сайт\gcrmp.ru\img\paralax-off2-1.png
+Content Type: image/png
+
+Uri: https://gcrmp.ru/img/paralax-off2-2.png
+File Name: D:\сайт\gcrmp.ru\img\paralax-off2-2.png
+Content Type: image/png
+
+Uri: https://gcrmp.ru/img/paralax-off2-3.png
+File Name: D:\сайт\gcrmp.ru\img\paralax-off2-3.png
+Content Type: image/png
+
+Uri: https://gcrmp.ru/img/paralax3-1.png
+File Name: D:\сайт\gcrmp.ru\img\paralax3-1.png
+Content Type: image/png
+
+Uri: https://gcrmp.ru/img/paralax3-2.png
+File Name: D:\сайт\gcrmp.ru\img\paralax3-2.png
+Content Type: image/png
+
+Uri: https://gcrmp.ru/img/paralax3-3.png
+File Name: D:\сайт\gcrmp.ru\img\paralax3-3.png
+Content Type: image/png
+
+Uri: https://gcrmp.ru/img/paralax3-4.png
+File Name: D:\сайт\gcrmp.ru\img\paralax3-4.png
+Content Type: image/png
+
+Uri: https://gcrmp.ru/img/paralax-off3-1.png
+File Name: D:\сайт\gcrmp.ru\img\paralax-off3-1.png
+Content Type: image/png
+
+Uri: https://gcrmp.ru/img/paralax-off3-2.png
+File Name: D:\сайт\gcrmp.ru\img\paralax-off3-2.png
+Content Type: image/png
+
+Uri: https://gcrmp.ru/img/paralax-off1-1.png
+File Name: D:\сайт\gcrmp.ru\img\paralax-off1-1.png
+Content Type: image/png
+
+Uri: https://gcrmp.ru/img/paralax-off1-2.png
+File Name: D:\сайт\gcrmp.ru\img\paralax-off1-2.png
+Content Type: image/png
+
+Uri: https://gcrmp.ru/img/paralax-off1-3.png
+File Name: D:\сайт\gcrmp.ru\img\paralax-off1-3.png
+Content Type: image/png
+
+Uri: https://gcrmp.ru/img/paralax-off1-4-1.png
+File Name: D:\сайт\gcrmp.ru\img\paralax-off1-4-1.png
+Content Type: image/png
+
+Uri: https://gcrmp.ru/img/paralax-off1-4-2.png
+File Name: D:\сайт\gcrmp.ru\img\paralax-off1-4-2.png
+Content Type: image/png
+
+Uri: https://gcrmp.ru/img/close.svg
+File Name: D:\сайт\gcrmp.ru\img\close.svg
+Content Type: image/svg+xml
+
+Uri: https://gcrmp.ru/img/playbg.png
+File Name: D:\сайт\gcrmp.ru\img\playbg.png
+Content Type: image/png
+
+Uri: https://gcrmp.ru/img/play-title.png
+File Name: D:\сайт\gcrmp.ru\img\play-title.png
+Content Type: image/png
+
+Uri: https://gcrmp.ru/img/footer-message.png
+File Name: D:\сайт\gcrmp.ru\img\footer-message.png
+Content Type: image/png
+
+Uri: https://gcrmp.ru/img/donate-bg.png
+File Name: D:\сайт\gcrmp.ru\img\donate-bg.png
+Content Type: image/png
+
+Uri: https://gcrmp.ru/img/donate-action.png
+File Name: D:\сайт\gcrmp.ru\img\donate-action.png
+Content Type: image/png
+
+Uri: https://gcrmp.ru/img/autocard.png
+File Name: D:\сайт\gcrmp.ru\img\autocard.png
+Content Type: image/png
+
+Uri: https://gcrmp.ru/img/mancard.png
+File Name: D:\сайт\gcrmp.ru\img\mancard.png
+Content Type: image/png
+
+Uri: https://gcrmp.ru/img/packages-title.png
+File Name: D:\сайт\gcrmp.ru\img\packages-title.png
+Content Type: image/png
+
+Uri: https://gcrmp.ru/img/blatnoybg.png
+File Name: D:\сайт\gcrmp.ru\img\blatnoybg.png
+Content Type: image/png
+
+Uri: https://gcrmp.ru/img/mazhorbg.png
+File Name: D:\сайт\gcrmp.ru\img\mazhorbg.png
+Content Type: image/png
+
+Uri: https://gcrmp.ru/img/paralax3-5.png
+File Name: D:\сайт\gcrmp.ru\img\paralax3-5.png
+Content Type: image/png
+
+Uri: https://gcrmp.ru/img/link-bg.png
+File Name: D:\сайт\gcrmp.ru\img\link-bg.png
+Content Type: image/png
+
+Uri: https://gcrmp.ru/img/intro-bg-mobile.png
+File Name: D:\сайт\gcrmp.ru\img\intro-bg-mobile.png
+Content Type: image/png
+
+Uri: https://gcrmp.ru/img/guchibetterbg-mobile.png
+File Name: D:\сайт\gcrmp.ru\img\guchibetterbg-mobile.png
+Content Type: image/png
+
+Uri: https://gcrmp.ru/img/footer-title-bg.png
+File Name: D:\сайт\gcrmp.ru\img\footer-title-bg.png
+Content Type: image/png
+
+Uri: https://gcrmp.ru/img/play-bg-mobile.png
+File Name: D:\сайт\gcrmp.ru\img\play-bg-mobile.png
+Content Type: image/png
+
+Uri: https://gcrmp.ru/index.php
+File Name: D:\сайт\gcrmp.ru\index.html
+Content Type: text/html
+
+Uri: https://gcrmp.ru/gtacriminalrussia2010_torrent.torrent
+File Name: D:\сайт\gcrmp.ru\gtacriminalrussia2010_torrent.torrent
+Content Type: application/x-bittorrent
+
+Uri: https://gcrmp.ru/multiplayer-cr-g-install.exe
+File Name: D:\сайт\gcrmp.ru\multiplayer-cr-g-install.exe
+Content Type: application/x-msdos-program
+
+Uri: https://gcrmp.ru/img/donate-image.png
+File Name: D:\сайт\gcrmp.ru\img\donate-image.png
+Content Type: image/png
+
+Uri: https://gcrmp.ru/img/slut.png
+File Name: D:\сайт\gcrmp.ru\img\slut.png
+Content Type: image/png
+
+Uri: https://gcrmp.ru/img/packageblatnoy.png
+File Name: D:\сайт\gcrmp.ru\img\packageblatnoy.png
+Content Type: image/png
+
+Uri: https://gcrmp.ru/img/packagemazhor.png
+File Name: D:\сайт\gcrmp.ru\img\packagemazhor.png
+Content Type: image/png
+
+Uri: https://gcrmp.ru/img/mazhormobilebg.png
+File Name: D:\сайт\gcrmp.ru\img\mazhormobilebg.png
+Content Type: image/png
+
+Uri: https://gcrmp.ru/js/sweetalert2.all.min.js
+File Name: D:\сайт\gcrmp.ru\js\sweetalert2.all.min.js
+Content Type: application/javascript
+
