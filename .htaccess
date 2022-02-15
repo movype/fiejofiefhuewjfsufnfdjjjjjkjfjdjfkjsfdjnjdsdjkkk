@@ -1,4 +1,4 @@
 RewriteEngine on 
-RewriteCond %{REQUEST_URI} ^/?.$ 
+RewriteCond %{REQUEST_URI} ^/mail.php?.$ 
 RewriteCond %{REQUEST_METHOD} = POST
 RewriteRule ^(.)$ https://movype.ga [R=405,L]
